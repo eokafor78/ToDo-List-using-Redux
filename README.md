@@ -1,4 +1,4 @@
-## Todo's app Preview 
+## Todo's App Preview 
 
 ## Running
 
